@@ -39,13 +39,9 @@ font-weight: 900;
   font-size: 48px;
 }
 #new-photo{
- text-align: center;
+ padding-left: 400px;
 }
-#new-photo img{
-  max-width: 100%;
-  height: auto;
-  display: inline-block;
-}
+
 .container2{
   background-image: url(../resources/Vectorrr.png);
   max-width: 1320px;
