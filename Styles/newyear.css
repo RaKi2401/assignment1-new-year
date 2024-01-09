@@ -98,6 +98,9 @@ background-color: transparent;
 .btn-primary{
   background-color: #FF0000;
   color: white;
+  border: 0;
+  border-radius: 16px;
+  padding: 15px 30px;
 }
 .setion-four{
   display: table;
@@ -144,5 +147,55 @@ font-weight: 900;
   background-color:  rgba(255,0,0,0.5);
   border-radius: 16px;
   text-align: center;
-  padding: 20px 50px 0px 50px;
+  padding-top: 50px;
+  width: 1320px;
+  height: 400px;
+}
+.button{
+  background: white;
+  border-radius: 30px;
+  padding: 15px 30px;
+  border: 0;
+}
+.btn-input{
+border: 0;
+}
+.Subscribe-btn{
+  border-radius: 0px 50px 50px 0px;
+  background-color: #F00;
+  padding: 15px 30px;
+  text-align: justify;
+}
+.footer{
+  background: #070211;
+  border-radius: 16px;
+  color: white;
+}
+.footer-collum{
+  display: flex;
+}
+.address{
+  padding: 70px 500px 0 40px;
+}
+.contract{
+  padding:50px 0 0 500px  ;
+  height: 200px;
+  width: 100px;
+}
+.social-link{
+  text-align: center;
+  padding-top: 30px;
+}
+.rights{
+  padding-left: 20px;
+}
+.last-section{
+  display: flex;
+}
+.rights{
+  padding: 100px 300px 30px 30px;
+}
+.unsub{
+  padding:100px 0px 30px 500px ;
+  
 }
